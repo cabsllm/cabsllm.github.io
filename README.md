@@ -5,7 +5,14 @@ It is mainly based on the code from the [textual inversion website](textual-inve
 
 If you find CABS LLM useful for your work please cite:
 ```
-@article{placeholder
+@misc{under review,
+      doi = {arXiv:2406.00069},
+      url = {https://arxiv.org/pdf/2406.00069},
+      author = {Chengwei Wei, Kee Kiat Koo, Amir Tavanaei, Karim Bouyarmane},
+      title = {Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models},
+      publisher = {will be submited to arXiv},
+      year = {2024},
+      primaryClass={cs.CL}
 }
 ```
 
